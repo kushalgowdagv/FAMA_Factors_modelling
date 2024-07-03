@@ -1,7 +1,7 @@
-# FAMA_Factors_modelling
+# FAMA Factors Modelling and Portfolio Optimization
 
 
-Factor Modeling and Portfolio Optimization
+
 =============================================
 
 Project Overview
